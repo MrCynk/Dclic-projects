@@ -10,6 +10,11 @@ const quizData = [
         answer: "56"
     },
     {
+        question: "Combien font 7 x 9 ?",
+        choices: ["54", "56", "63", "72"],
+        answer: "63"
+    },
+    {
         question: "Qui a inventé l'ampoule électrique ?",
         choices: ["Thomas Edison", "Albert Einstein", "Nikola Tesla", "Manase Attoessi"],
         answer: "Thomas Edison"
